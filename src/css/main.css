@@ -1,0 +1,37 @@
+:root {
+  font-family: 'Inter', sans-serif;
+}
+
+.main {
+  padding: 36px 24px;
+  max-width: 1400px;
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+}
+
+.main-sm-screen {
+  visibility: hidden;
+}
+
+.pokemon-card:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
+
+.pokemon-img-container {
+  border-radius: 12px;
+  width: 100px;
+  height: 100px;
+}
+
+.pokemon-img {
+  margin: auto;
+  filter: brightness(0) grayscale(1) contrast(0.7) saturate(0);
+}
+
+.types {
+  font-size: 0.875em;
+  padding: 2px 8px;
+  border-radius: 3px;
+}

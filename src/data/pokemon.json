@@ -1,0 +1,1136 @@
+{
+  "pokemon": [
+    {
+      "abilities": [
+        {
+          "ability": {
+            "name": "oblivious",
+            "url": "https://pokeapi.co/api/v2/ability/12/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "snow-cloak",
+            "url": "https://pokeapi.co/api/v2/ability/81/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "thick-fat",
+            "url": "https://pokeapi.co/api/v2/ability/47/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ],
+      "height": 25,
+      "held_items": [],
+      "id": 473,
+      "moves": [
+        { "name": "take-down", "id": 36, "level": 28, "method": "level-up" },
+        { "name": "thrash", "id": 37, "level": 41, "method": "level-up" },
+        { "name": "roar", "id": 46, "level": 0, "method": "machine" },
+        { "name": "mist", "id": 54, "level": 37, "method": "level-up" },
+        { "name": "ice-beam", "id": 58, "level": 0, "method": "machine" },
+        { "name": "blizzard", "id": 59, "level": 52, "method": "level-up" },
+        { "name": "blizzard", "id": 59, "level": 0, "method": "machine" },
+        { "name": "hyper-beam", "id": 63, "level": 0, "method": "machine" },
+        { "name": "peck", "id": 64, "level": 1, "method": "level-up" },
+        { "name": "strength", "id": 70, "level": 0, "method": "machine" },
+        { "name": "earthquake", "id": 89, "level": 46, "method": "level-up" },
+        { "name": "earthquake", "id": 89, "level": 0, "method": "machine" },
+        { "name": "dig", "id": 91, "level": 0, "method": "machine" },
+        { "name": "toxic", "id": 92, "level": 0, "method": "machine" },
+        { "name": "double-team", "id": 104, "level": 0, "method": "machine" },
+        {
+          "name": "light-screen",
+          "id": 113,
+          "level": 0,
+          "method": "machine"
+        },
+        { "name": "reflect", "id": 115, "level": 0, "method": "machine" },
+        { "name": "rest", "id": 156, "level": 0, "method": "machine" },
+        { "name": "rock-slide", "id": 157, "level": 0, "method": "machine" },
+        { "name": "substitute", "id": 164, "level": 0, "method": "machine" },
+        { "name": "snore", "id": 173, "level": 0, "method": "tutor" },
+        {
+          "name": "powder-snow",
+          "id": 181,
+          "level": 1,
+          "method": "level-up"
+        },
+        {
+          "name": "powder-snow",
+          "id": 181,
+          "level": 8,
+          "method": "level-up"
+        },
+        { "name": "protect", "id": 182, "level": 0, "method": "machine" },
+        {
+          "name": "scary-face",
+          "id": 184,
+          "level": 58,
+          "method": "level-up"
+        },
+        { "name": "mud-slap", "id": 189, "level": 11, "method": "level-up" },
+        { "name": "icy-wind", "id": 196, "level": 0, "method": "tutor" },
+        { "name": "sandstorm", "id": 201, "level": 0, "method": "machine" },
+        { "name": "endure", "id": 203, "level": 14, "method": "level-up" },
+        { "name": "swagger", "id": 207, "level": 0, "method": "machine" },
+        { "name": "attract", "id": 213, "level": 0, "method": "machine" },
+        { "name": "sleep-talk", "id": 214, "level": 0, "method": "tutor" },
+        { "name": "return", "id": 216, "level": 0, "method": "machine" },
+        { "name": "frustration", "id": 218, "level": 0, "method": "machine" },
+        {
+          "name": "hidden-power",
+          "id": 237,
+          "level": 0,
+          "method": "machine"
+        },
+        { "name": "rain-dance", "id": 240, "level": 0, "method": "machine" },
+        {
+          "name": "ancient-power",
+          "id": 246,
+          "level": 1,
+          "method": "level-up"
+        },
+        { "name": "rock-smash", "id": 249, "level": 0, "method": "machine" },
+        { "name": "hail", "id": 258, "level": 21, "method": "level-up" },
+        { "name": "hail", "id": 258, "level": 0, "method": "machine" },
+        { "name": "facade", "id": 263, "level": 0, "method": "machine" },
+        { "name": "superpower", "id": 276, "level": 0, "method": "tutor" },
+        { "name": "knock-off", "id": 282, "level": 0, "method": "tutor" },
+        { "name": "endeavor", "id": 283, "level": 0, "method": "tutor" },
+        { "name": "mud-sport", "id": 300, "level": 1, "method": "level-up" },
+        { "name": "mud-sport", "id": 300, "level": 5, "method": "level-up" },
+        {
+          "name": "odor-sleuth",
+          "id": 316,
+          "level": 1,
+          "method": "level-up"
+        },
+        { "name": "rock-tomb", "id": 317, "level": 0, "method": "machine" },
+        { "name": "block", "id": 335, "level": 0, "method": "tutor" },
+        { "name": "earth-power", "id": 414, "level": 0, "method": "tutor" },
+        { "name": "giga-impact", "id": 416, "level": 0, "method": "machine" },
+        { "name": "ice-fang", "id": 423, "level": 24, "method": "level-up" },
+        { "name": "mud-bomb", "id": 426, "level": 18, "method": "level-up" },
+        { "name": "iron-head", "id": 442, "level": 0, "method": "tutor" },
+        { "name": "stone-edge", "id": 444, "level": 0, "method": "machine" },
+        { "name": "stealth-rock", "id": 446, "level": 0, "method": "tutor" },
+        {
+          "name": "double-hit",
+          "id": 458,
+          "level": 33,
+          "method": "level-up"
+        },
+        { "name": "round", "id": 496, "level": 0, "method": "machine" },
+        { "name": "bulldoze", "id": 523, "level": 0, "method": "machine" }
+      ],
+      "name": "mamoswine",
+      "sprites": {
+        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png"
+      },
+      "stats": [
+        {
+          "base_stat": 110,
+          "effort": 0,
+          "stat": {
+            "name": "hp",
+            "url": "https://pokeapi.co/api/v2/stat/1/"
+          }
+        },
+        {
+          "base_stat": 130,
+          "effort": 3,
+          "stat": {
+            "name": "atk",
+            "url": "https://pokeapi.co/api/v2/stat/2/"
+          }
+        },
+        {
+          "base_stat": 80,
+          "effort": 0,
+          "stat": {
+            "name": "def",
+            "url": "https://pokeapi.co/api/v2/stat/3/"
+          }
+        },
+        {
+          "base_stat": 70,
+          "effort": 0,
+          "stat": {
+            "name": "spatk",
+            "url": "https://pokeapi.co/api/v2/stat/4/"
+          }
+        },
+        {
+          "base_stat": 60,
+          "effort": 0,
+          "stat": {
+            "name": "spdef",
+            "url": "https://pokeapi.co/api/v2/stat/5/"
+          }
+        },
+        {
+          "base_stat": 80,
+          "effort": 0,
+          "stat": {
+            "name": "spd",
+            "url": "https://pokeapi.co/api/v2/stat/6/"
+          }
+        }
+      ],
+      "types": [
+        {
+          "slot": 1,
+          "type": {
+            "name": "ice",
+            "url": "https://pokeapi.co/api/v2/type/15/"
+          }
+        },
+        {
+          "slot": 2,
+          "type": {
+            "name": "ground",
+            "url": "https://pokeapi.co/api/v2/type/5/"
+          }
+        }
+      ],
+      "weight": 2910
+    },
+    {
+      "abilities": [
+        {
+          "ability": {
+            "name": "hustle",
+            "url": "https://pokeapi.co/api/v2/ability/55/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "serene-grace",
+            "url": "https://pokeapi.co/api/v2/ability/32/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "super-luck",
+            "url": "https://pokeapi.co/api/v2/ability/105/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ],
+      "height": 6,
+      "held_items": [],
+      "id": 176,
+      "moves": [
+        { "name": "fly", "id": 19, "level": 0, "method": "machine" },
+        { "name": "double-edge", "id": 38, "level": 45, "method": "level-up" },
+        { "name": "growl", "id": 45, "level": 1, "method": "level-up" },
+        { "name": "flamethrower", "id": 53, "level": 0, "method": "machine" },
+        { "name": "hyper-beam", "id": 63, "level": 0, "method": "machine" },
+        { "name": "solar-beam", "id": 76, "level": 0, "method": "machine" },
+        { "name": "thunder-wave", "id": 86, "level": 0, "method": "machine" },
+        { "name": "toxic", "id": 92, "level": 0, "method": "machine" },
+        { "name": "psychic", "id": 94, "level": 0, "method": "machine" },
+        { "name": "double-team", "id": 104, "level": 0, "method": "machine" },
+        { "name": "light-screen", "id": 113, "level": 0, "method": "machine" },
+        { "name": "reflect", "id": 115, "level": 0, "method": "machine" },
+        { "name": "metronome", "id": 118, "level": 1, "method": "level-up" },
+        { "name": "metronome", "id": 118, "level": 5, "method": "level-up" },
+        { "name": "fire-blast", "id": 126, "level": 0, "method": "machine" },
+        { "name": "dream-eater", "id": 138, "level": 0, "method": "machine" },
+        { "name": "flash", "id": 148, "level": 0, "method": "machine" },
+        { "name": "rest", "id": 156, "level": 0, "method": "machine" },
+        { "name": "substitute", "id": 164, "level": 0, "method": "machine" },
+        { "name": "snore", "id": 173, "level": 0, "method": "tutor" },
+        { "name": "protect", "id": 182, "level": 0, "method": "machine" },
+        { "name": "sweet-kiss", "id": 186, "level": 1, "method": "level-up" },
+        { "name": "sweet-kiss", "id": 186, "level": 9, "method": "level-up" },
+        { "name": "charm", "id": 204, "level": 1, "method": "level-up" },
+        { "name": "swagger", "id": 207, "level": 0, "method": "machine" },
+        { "name": "attract", "id": 213, "level": 0, "method": "machine" },
+        { "name": "sleep-talk", "id": 214, "level": 0, "method": "tutor" },
+        { "name": "heal-bell", "id": 215, "level": 0, "method": "tutor" },
+        { "name": "return", "id": 216, "level": 0, "method": "machine" },
+        { "name": "frustration", "id": 218, "level": 0, "method": "machine" },
+        { "name": "safeguard", "id": 219, "level": 37, "method": "level-up" },
+        { "name": "safeguard", "id": 219, "level": 0, "method": "machine" },
+        { "name": "baton-pass", "id": 226, "level": 41, "method": "level-up" },
+        { "name": "encore", "id": 227, "level": 17, "method": "level-up" },
+        { "name": "hidden-power", "id": 237, "level": 0, "method": "machine" },
+        { "name": "rain-dance", "id": 240, "level": 0, "method": "machine" },
+        { "name": "sunny-day", "id": 241, "level": 0, "method": "machine" },
+        { "name": "psych-up", "id": 244, "level": 0, "method": "machine" },
+        {
+          "name": "ancient-power",
+          "id": 246,
+          "level": 33,
+          "method": "level-up"
+        },
+        { "name": "shadow-ball", "id": 247, "level": 0, "method": "machine" },
+        { "name": "rock-smash", "id": 249, "level": 0, "method": "machine" },
+        { "name": "heat-wave", "id": 257, "level": 0, "method": "tutor" },
+        { "name": "facade", "id": 263, "level": 0, "method": "machine" },
+        { "name": "follow-me", "id": 266, "level": 21, "method": "level-up" },
+        { "name": "trick", "id": 271, "level": 0, "method": "tutor" },
+        { "name": "wish", "id": 273, "level": 29, "method": "level-up" },
+        { "name": "magic-coat", "id": 277, "level": 0, "method": "tutor" },
+        { "name": "brick-break", "id": 280, "level": 0, "method": "machine" },
+        { "name": "yawn", "id": 281, "level": 13, "method": "level-up" },
+        { "name": "endeavor", "id": 283, "level": 0, "method": "tutor" },
+        { "name": "hyper-voice", "id": 304, "level": 0, "method": "tutor" },
+        { "name": "signal-beam", "id": 324, "level": 0, "method": "tutor" },
+        { "name": "aerial-ace", "id": 332, "level": 0, "method": "machine" },
+        { "name": "covet", "id": 343, "level": 0, "method": "tutor" },
+        { "name": "magical-leaf", "id": 345, "level": 1, "method": "level-up" },
+        { "name": "roost", "id": 355, "level": 0, "method": "tutor" },
+        { "name": "tailwind", "id": 366, "level": 0, "method": "tutor" },
+        { "name": "fling", "id": 374, "level": 0, "method": "machine" },
+        { "name": "last-resort", "id": 387, "level": 49, "method": "level-up" },
+        { "name": "last-resort", "id": 387, "level": 0, "method": "tutor" },
+        { "name": "drain-punch", "id": 409, "level": 0, "method": "tutor" },
+        { "name": "giga-impact", "id": 416, "level": 0, "method": "machine" },
+        { "name": "zen-headbutt", "id": 428, "level": 0, "method": "tutor" },
+        { "name": "grass-knot", "id": 447, "level": 0, "method": "machine" },
+        { "name": "psyshock", "id": 473, "level": 0, "method": "machine" },
+        { "name": "telekinesis", "id": 477, "level": 0, "method": "machine" },
+        { "name": "after-you", "id": 495, "level": 53, "method": "level-up" },
+        { "name": "after-you", "id": 495, "level": 0, "method": "tutor" },
+        { "name": "round", "id": 496, "level": 0, "method": "machine" },
+        { "name": "echoed-voice", "id": 497, "level": 0, "method": "machine" },
+        { "name": "incinerate", "id": 510, "level": 0, "method": "machine" },
+        { "name": "retaliate", "id": 514, "level": 0, "method": "machine" },
+        { "name": "bestow", "id": 516, "level": 25, "method": "level-up" },
+        { "name": "work-up", "id": 526, "level": 0, "method": "machine" }
+      ],
+      "name": "togetic",
+      "sprites": {
+        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png"
+      },
+      "stats": [
+        {
+          "base_stat": 55,
+          "effort": 0,
+          "stat": {
+            "name": "hp",
+            "url": "https://pokeapi.co/api/v2/stat/1/"
+          }
+        },
+        {
+          "base_stat": 40,
+          "effort": 0,
+          "stat": {
+            "name": "atk",
+            "url": "https://pokeapi.co/api/v2/stat/2/"
+          }
+        },
+        {
+          "base_stat": 85,
+          "effort": 0,
+          "stat": {
+            "name": "def",
+            "url": "https://pokeapi.co/api/v2/stat/3/"
+          }
+        },
+        {
+          "base_stat": 80,
+          "effort": 0,
+          "stat": {
+            "name": "spatk",
+            "url": "https://pokeapi.co/api/v2/stat/4/"
+          }
+        },
+        {
+          "base_stat": 105,
+          "effort": 2,
+          "stat": {
+            "name": "spdef",
+            "url": "https://pokeapi.co/api/v2/stat/5/"
+          }
+        },
+        {
+          "base_stat": 40,
+          "effort": 0,
+          "stat": {
+            "name": "spd",
+            "url": "https://pokeapi.co/api/v2/stat/6/"
+          }
+        }
+      ],
+      "types": [
+        {
+          "slot": 1,
+          "type": {
+            "name": "normal",
+            "url": "https://pokeapi.co/api/v2/type/1/"
+          }
+        },
+        {
+          "slot": 2,
+          "type": {
+            "name": "flying",
+            "url": "https://pokeapi.co/api/v2/type/3/"
+          }
+        }
+      ],
+      "weight": 32
+    },
+    {
+      "abilities": [
+        {
+          "ability": {
+            "name": "levitate",
+            "url": "https://pokeapi.co/api/v2/ability/26/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "height": 20,
+      "held_items": [],
+      "id": 330,
+      "moves": [
+        { "name": "fire-punch", "id": 7, "level": 0, "method": "tutor" },
+        { "name": "thunder-punch", "id": 9, "level": 0, "method": "tutor" },
+        { "name": "fly", "id": 19, "level": 0, "method": "machine" },
+        { "name": "sand-attack", "id": 28, "level": 1, "method": "level-up" },
+        { "name": "sand-attack", "id": 28, "level": 4, "method": "level-up" },
+        { "name": "supersonic", "id": 48, "level": 29, "method": "level-up" },
+        { "name": "sonic-boom", "id": 49, "level": 1, "method": "level-up" },
+        { "name": "flamethrower", "id": 53, "level": 0, "method": "machine" },
+        { "name": "hyper-beam", "id": 63, "level": 49, "method": "level-up" },
+        { "name": "hyper-beam", "id": 63, "level": 0, "method": "machine" },
+        { "name": "strength", "id": 70, "level": 0, "method": "machine" },
+        { "name": "solar-beam", "id": 76, "level": 0, "method": "machine" },
+        { "name": "earthquake", "id": 89, "level": 0, "method": "machine" },
+        { "name": "dig", "id": 91, "level": 0, "method": "machine" },
+        { "name": "toxic", "id": 92, "level": 0, "method": "machine" },
+        { "name": "screech", "id": 103, "level": 34, "method": "level-up" },
+        { "name": "double-team", "id": 104, "level": 0, "method": "machine" },
+        { "name": "bide", "id": 117, "level": 17, "method": "level-up" },
+        { "name": "fire-blast", "id": 126, "level": 0, "method": "machine" },
+        { "name": "rest", "id": 156, "level": 0, "method": "machine" },
+        { "name": "rock-slide", "id": 157, "level": 25, "method": "level-up" },
+        { "name": "rock-slide", "id": 157, "level": 0, "method": "machine" },
+        { "name": "substitute", "id": 164, "level": 0, "method": "machine" },
+        { "name": "snore", "id": 173, "level": 0, "method": "tutor" },
+        { "name": "protect", "id": 182, "level": 0, "method": "machine" },
+        { "name": "feint-attack", "id": 185, "level": 1, "method": "level-up" },
+        { "name": "feint-attack", "id": 185, "level": 7, "method": "level-up" },
+        { "name": "mud-slap", "id": 189, "level": 13, "method": "level-up" },
+        { "name": "outrage", "id": 200, "level": 0, "method": "tutor" },
+        { "name": "sandstorm", "id": 201, "level": 44, "method": "level-up" },
+        { "name": "sandstorm", "id": 201, "level": 0, "method": "machine" },
+        { "name": "giga-drain", "id": 202, "level": 0, "method": "tutor" },
+        { "name": "swagger", "id": 207, "level": 0, "method": "machine" },
+        { "name": "attract", "id": 213, "level": 0, "method": "machine" },
+        { "name": "sleep-talk", "id": 214, "level": 0, "method": "tutor" },
+        { "name": "return", "id": 216, "level": 0, "method": "machine" },
+        { "name": "frustration", "id": 218, "level": 0, "method": "machine" },
+        {
+          "name": "dragon-breath",
+          "id": 225,
+          "level": 35,
+          "method": "level-up"
+        },
+        { "name": "iron-tail", "id": 231, "level": 0, "method": "tutor" },
+        { "name": "hidden-power", "id": 237, "level": 0, "method": "machine" },
+        { "name": "sunny-day", "id": 241, "level": 0, "method": "machine" },
+        { "name": "rock-smash", "id": 249, "level": 0, "method": "machine" },
+        { "name": "heat-wave", "id": 257, "level": 0, "method": "tutor" },
+        { "name": "facade", "id": 263, "level": 0, "method": "machine" },
+        { "name": "superpower", "id": 276, "level": 0, "method": "tutor" },
+        { "name": "rock-tomb", "id": 317, "level": 0, "method": "machine" },
+        { "name": "signal-beam", "id": 324, "level": 0, "method": "tutor" },
+        { "name": "sand-tomb", "id": 328, "level": 1, "method": "level-up" },
+        { "name": "sand-tomb", "id": 328, "level": 10, "method": "level-up" },
+        { "name": "aerial-ace", "id": 332, "level": 0, "method": "machine" },
+        { "name": "dragon-claw", "id": 337, "level": 55, "method": "level-up" },
+        { "name": "dragon-claw", "id": 337, "level": 0, "method": "machine" },
+        { "name": "roost", "id": 355, "level": 0, "method": "tutor" },
+        { "name": "tailwind", "id": 366, "level": 0, "method": "tutor" },
+        { "name": "u-turn", "id": 369, "level": 0, "method": "machine" },
+        { "name": "dragon-pulse", "id": 406, "level": 0, "method": "tutor" },
+        { "name": "earth-power", "id": 414, "level": 39, "method": "level-up" },
+        { "name": "earth-power", "id": 414, "level": 0, "method": "tutor" },
+        { "name": "giga-impact", "id": 416, "level": 0, "method": "machine" },
+        { "name": "draco-meteor", "id": 434, "level": 0, "method": "tutor" },
+        { "name": "stone-edge", "id": 444, "level": 0, "method": "machine" },
+        { "name": "bug-bite", "id": 450, "level": 0, "method": "tutor" },
+        { "name": "hone-claws", "id": 468, "level": 0, "method": "machine" },
+        { "name": "round", "id": 496, "level": 0, "method": "machine" },
+        { "name": "incinerate", "id": 510, "level": 0, "method": "machine" },
+        { "name": "struggle-bug", "id": 522, "level": 0, "method": "machine" },
+        { "name": "bulldoze", "id": 523, "level": 21, "method": "level-up" },
+        { "name": "bulldoze", "id": 523, "level": 0, "method": "machine" },
+        { "name": "dragon-tail", "id": 525, "level": 45, "method": "level-up" },
+        { "name": "dragon-tail", "id": 525, "level": 0, "method": "machine" }
+      ],
+      "name": "flygon",
+      "sprites": {
+        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png"
+      },
+      "stats": [
+        {
+          "base_stat": 80,
+          "effort": 0,
+          "stat": {
+            "name": "hp",
+            "url": "https://pokeapi.co/api/v2/stat/1/"
+          }
+        },
+        {
+          "base_stat": 100,
+          "effort": 1,
+          "stat": {
+            "name": "atk",
+            "url": "https://pokeapi.co/api/v2/stat/2/"
+          }
+        },
+        {
+          "base_stat": 80,
+          "effort": 0,
+          "stat": {
+            "name": "def",
+            "url": "https://pokeapi.co/api/v2/stat/3/"
+          }
+        },
+        {
+          "base_stat": 80,
+          "effort": 0,
+          "stat": {
+            "name": "spatk",
+            "url": "https://pokeapi.co/api/v2/stat/4/"
+          }
+        },
+        {
+          "base_stat": 80,
+          "effort": 0,
+          "stat": {
+            "name": "spdef",
+            "url": "https://pokeapi.co/api/v2/stat/5/"
+          }
+        },
+        {
+          "base_stat": 100,
+          "effort": 2,
+          "stat": {
+            "name": "spd",
+            "url": "https://pokeapi.co/api/v2/stat/6/"
+          }
+        }
+      ],
+      "types": [
+        {
+          "slot": 1,
+          "type": {
+            "name": "ground",
+            "url": "https://pokeapi.co/api/v2/type/5/"
+          }
+        },
+        {
+          "slot": 2,
+          "type": {
+            "name": "dragon",
+            "url": "https://pokeapi.co/api/v2/type/16/"
+          }
+        }
+      ],
+      "weight": 820
+    },
+    {
+      "abilities": [
+        {
+          "ability": {
+            "name": "intimidate",
+            "url": "https://pokeapi.co/api/v2/ability/22/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "reckless",
+            "url": "https://pokeapi.co/api/v2/ability/120/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ],
+      "height": 12,
+      "held_items": [
+        {
+          "item": {
+            "name": "yache-berry",
+            "url": "https://pokeapi.co/api/v2/item/165/"
+          },
+          "version_details": [
+            {
+              "rarity": 5,
+              "version": {
+                "name": "diamond",
+                "url": "https://pokeapi.co/api/v2/version/12/"
+              }
+            },
+            {
+              "rarity": 5,
+              "version": {
+                "name": "pearl",
+                "url": "https://pokeapi.co/api/v2/version/13/"
+              }
+            },
+            {
+              "rarity": 5,
+              "version": {
+                "name": "platinum",
+                "url": "https://pokeapi.co/api/v2/version/14/"
+              }
+            },
+            {
+              "rarity": 5,
+              "version": {
+                "name": "heartgold",
+                "url": "https://pokeapi.co/api/v2/version/15/"
+              }
+            },
+            {
+              "rarity": 5,
+              "version": {
+                "name": "soulsilver",
+                "url": "https://pokeapi.co/api/v2/version/16/"
+              }
+            },
+            {
+              "rarity": 5,
+              "version": {
+                "name": "black",
+                "url": "https://pokeapi.co/api/v2/version/17/"
+              }
+            },
+            {
+              "rarity": 5,
+              "version": {
+                "name": "white",
+                "url": "https://pokeapi.co/api/v2/version/18/"
+              }
+            },
+            {
+              "rarity": 5,
+              "version": {
+                "name": "black-2",
+                "url": "https://pokeapi.co/api/v2/version/21/"
+              }
+            },
+            {
+              "rarity": 5,
+              "version": {
+                "name": "white-2",
+                "url": "https://pokeapi.co/api/v2/version/22/"
+              }
+            }
+          ]
+        }
+      ],
+      "id": 398,
+      "moves": [
+        { "name": "wing-attack", "id": 17, "level": 1, "method": "level-up" },
+        { "name": "wing-attack", "id": 17, "level": 9, "method": "level-up" },
+        { "name": "whirlwind", "id": 18, "level": 23, "method": "level-up" },
+        { "name": "fly", "id": 19, "level": 0, "method": "machine" },
+        { "name": "tackle", "id": 33, "level": 1, "method": "level-up" },
+        { "name": "take-down", "id": 36, "level": 33, "method": "level-up" },
+        { "name": "growl", "id": 45, "level": 1, "method": "level-up" },
+        { "name": "hyper-beam", "id": 63, "level": 0, "method": "machine" },
+        { "name": "toxic", "id": 92, "level": 0, "method": "machine" },
+        { "name": "agility", "id": 97, "level": 41, "method": "level-up" },
+        { "name": "quick-attack", "id": 98, "level": 1, "method": "level-up" },
+        { "name": "quick-attack", "id": 98, "level": 5, "method": "level-up" },
+        { "name": "double-team", "id": 104, "level": 13, "method": "level-up" },
+        { "name": "double-team", "id": 104, "level": 0, "method": "machine" },
+        { "name": "sky-attack", "id": 143, "level": 0, "method": "tutor" },
+        { "name": "rest", "id": 156, "level": 0, "method": "machine" },
+        { "name": "substitute", "id": 164, "level": 0, "method": "machine" },
+        { "name": "thief", "id": 168, "level": 0, "method": "machine" },
+        { "name": "snore", "id": 173, "level": 0, "method": "tutor" },
+        { "name": "protect", "id": 182, "level": 0, "method": "machine" },
+        { "name": "swagger", "id": 207, "level": 0, "method": "machine" },
+        { "name": "attract", "id": 213, "level": 0, "method": "machine" },
+        { "name": "sleep-talk", "id": 214, "level": 0, "method": "tutor" },
+        { "name": "return", "id": 216, "level": 0, "method": "machine" },
+        { "name": "frustration", "id": 218, "level": 0, "method": "machine" },
+        { "name": "hidden-power", "id": 237, "level": 0, "method": "machine" },
+        { "name": "rain-dance", "id": 240, "level": 0, "method": "machine" },
+        { "name": "sunny-day", "id": 241, "level": 0, "method": "machine" },
+        { "name": "heat-wave", "id": 257, "level": 0, "method": "tutor" },
+        { "name": "facade", "id": 263, "level": 0, "method": "machine" },
+        { "name": "endeavor", "id": 283, "level": 18, "method": "level-up" },
+        { "name": "endeavor", "id": 283, "level": 0, "method": "tutor" },
+        { "name": "aerial-ace", "id": 332, "level": 28, "method": "level-up" },
+        { "name": "aerial-ace", "id": 332, "level": 0, "method": "machine" },
+        { "name": "roost", "id": 355, "level": 0, "method": "tutor" },
+        { "name": "pluck", "id": 365, "level": 0, "method": "machine" },
+        { "name": "tailwind", "id": 366, "level": 0, "method": "tutor" },
+        { "name": "u-turn", "id": 369, "level": 0, "method": "machine" },
+        {
+          "name": "close-combat",
+          "id": 370,
+          "level": 34,
+          "method": "level-up"
+        },
+        { "name": "brave-bird", "id": 413, "level": 49, "method": "level-up" },
+        { "name": "giga-impact", "id": 416, "level": 0, "method": "machine" },
+        { "name": "round", "id": 496, "level": 0, "method": "machine" },
+        { "name": "echoed-voice", "id": 497, "level": 0, "method": "machine" },
+        { "name": "retaliate", "id": 514, "level": 0, "method": "machine" },
+        {
+          "name": "final-gambit",
+          "id": 515,
+          "level": 57,
+          "method": "level-up"
+        },
+        { "name": "work-up", "id": 526, "level": 0, "method": "machine" }
+      ],
+      "name": "staraptor",
+      "sprites": {
+        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png"
+      },
+      "stats": [
+        {
+          "base_stat": 85,
+          "effort": 0,
+          "stat": {
+            "name": "hp",
+            "url": "https://pokeapi.co/api/v2/stat/1/"
+          }
+        },
+        {
+          "base_stat": 120,
+          "effort": 3,
+          "stat": {
+            "name": "atk",
+            "url": "https://pokeapi.co/api/v2/stat/2/"
+          }
+        },
+        {
+          "base_stat": 70,
+          "effort": 0,
+          "stat": {
+            "name": "def",
+            "url": "https://pokeapi.co/api/v2/stat/3/"
+          }
+        },
+        {
+          "base_stat": 50,
+          "effort": 0,
+          "stat": {
+            "name": "spatk",
+            "url": "https://pokeapi.co/api/v2/stat/4/"
+          }
+        },
+        {
+          "base_stat": 60,
+          "effort": 0,
+          "stat": {
+            "name": "spdef",
+            "url": "https://pokeapi.co/api/v2/stat/5/"
+          }
+        },
+        {
+          "base_stat": 100,
+          "effort": 0,
+          "stat": {
+            "name": "spd",
+            "url": "https://pokeapi.co/api/v2/stat/6/"
+          }
+        }
+      ],
+      "types": [
+        {
+          "slot": 1,
+          "type": {
+            "name": "normal",
+            "url": "https://pokeapi.co/api/v2/type/1/"
+          }
+        },
+        {
+          "slot": 2,
+          "type": {
+            "name": "flying",
+            "url": "https://pokeapi.co/api/v2/type/3/"
+          }
+        }
+      ],
+      "weight": 249
+    },
+    {
+      "abilities": [
+        {
+          "ability": {
+            "name": "overcoat",
+            "url": "https://pokeapi.co/api/v2/ability/142/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "magic-guard",
+            "url": "https://pokeapi.co/api/v2/ability/98/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "regenerator",
+            "url": "https://pokeapi.co/api/v2/ability/144/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ],
+      "height": 10,
+      "held_items": [
+        {
+          "item": {
+            "name": "persim-berry",
+            "url": "https://pokeapi.co/api/v2/item/133/"
+          },
+          "version_details": [
+            {
+              "rarity": 50,
+              "version": {
+                "name": "black-2",
+                "url": "https://pokeapi.co/api/v2/version/21/"
+              }
+            },
+            {
+              "rarity": 50,
+              "version": {
+                "name": "white-2",
+                "url": "https://pokeapi.co/api/v2/version/22/"
+              }
+            }
+          ]
+        }
+      ],
+      "id": 579,
+      "moves": [
+        { "name": "fire-punch", "id": 7, "level": 0, "method": "tutor" },
+        { "name": "ice-punch", "id": 8, "level": 0, "method": "tutor" },
+        { "name": "thunder-punch", "id": 9, "level": 0, "method": "tutor" },
+        { "name": "hyper-beam", "id": 63, "level": 0, "method": "machine" },
+        { "name": "strength", "id": 70, "level": 0, "method": "machine" },
+        { "name": "thunder-wave", "id": 86, "level": 0, "method": "machine" },
+        { "name": "thunder", "id": 87, "level": 0, "method": "machine" },
+        { "name": "toxic", "id": 92, "level": 0, "method": "machine" },
+        { "name": "psychic", "id": 94, "level": 39, "method": "level-up" },
+        { "name": "psychic", "id": 94, "level": 0, "method": "machine" },
+        { "name": "double-team", "id": 104, "level": 0, "method": "machine" },
+        { "name": "recover", "id": 105, "level": 24, "method": "level-up" },
+        {
+          "name": "light-screen",
+          "id": 113,
+          "level": 16,
+          "method": "level-up"
+        },
+        { "name": "light-screen", "id": 113, "level": 0, "method": "machine" },
+        { "name": "reflect", "id": 115, "level": 1, "method": "level-up" },
+        { "name": "reflect", "id": 115, "level": 3, "method": "level-up" },
+        { "name": "reflect", "id": 115, "level": 0, "method": "machine" },
+        { "name": "dream-eater", "id": 138, "level": 0, "method": "machine" },
+        { "name": "dizzy-punch", "id": 146, "level": 41, "method": "level-up" },
+        { "name": "flash", "id": 148, "level": 0, "method": "machine" },
+        { "name": "psywave", "id": 149, "level": 1, "method": "level-up" },
+        { "name": "explosion", "id": 153, "level": 0, "method": "machine" },
+        { "name": "rest", "id": 156, "level": 0, "method": "machine" },
+        { "name": "rock-slide", "id": 157, "level": 0, "method": "machine" },
+        { "name": "substitute", "id": 164, "level": 0, "method": "machine" },
+        { "name": "snore", "id": 173, "level": 0, "method": "tutor" },
+        { "name": "protect", "id": 182, "level": 0, "method": "machine" },
+        { "name": "charm", "id": 204, "level": 19, "method": "level-up" },
+        { "name": "rollout", "id": 205, "level": 1, "method": "level-up" },
+        { "name": "rollout", "id": 205, "level": 7, "method": "level-up" },
+        { "name": "swagger", "id": 207, "level": 0, "method": "machine" },
+        { "name": "attract", "id": 213, "level": 0, "method": "machine" },
+        { "name": "sleep-talk", "id": 214, "level": 0, "method": "tutor" },
+        { "name": "return", "id": 216, "level": 0, "method": "machine" },
+        { "name": "frustration", "id": 218, "level": 0, "method": "machine" },
+        { "name": "safeguard", "id": 219, "level": 0, "method": "machine" },
+        { "name": "pain-split", "id": 220, "level": 34, "method": "level-up" },
+        { "name": "pain-split", "id": 220, "level": 0, "method": "tutor" },
+        {
+          "name": "hidden-power",
+          "id": 237,
+          "level": 14,
+          "method": "level-up"
+        },
+        { "name": "hidden-power", "id": 237, "level": 0, "method": "machine" },
+        { "name": "rain-dance", "id": 240, "level": 0, "method": "machine" },
+        { "name": "psych-up", "id": 244, "level": 0, "method": "machine" },
+        { "name": "shadow-ball", "id": 247, "level": 0, "method": "machine" },
+        {
+          "name": "future-sight",
+          "id": 248,
+          "level": 31,
+          "method": "level-up"
+        },
+        { "name": "rock-smash", "id": 249, "level": 0, "method": "machine" },
+        { "name": "facade", "id": 263, "level": 0, "method": "machine" },
+        { "name": "helping-hand", "id": 270, "level": 0, "method": "tutor" },
+        { "name": "trick", "id": 271, "level": 0, "method": "tutor" },
+        { "name": "role-play", "id": 272, "level": 0, "method": "tutor" },
+        { "name": "superpower", "id": 276, "level": 0, "method": "tutor" },
+        { "name": "magic-coat", "id": 277, "level": 0, "method": "tutor" },
+        { "name": "knock-off", "id": 282, "level": 0, "method": "tutor" },
+        { "name": "endeavor", "id": 283, "level": 28, "method": "level-up" },
+        { "name": "endeavor", "id": 283, "level": 0, "method": "tutor" },
+        { "name": "skill-swap", "id": 285, "level": 45, "method": "level-up" },
+        { "name": "skill-swap", "id": 285, "level": 0, "method": "tutor" },
+        { "name": "snatch", "id": 289, "level": 1, "method": "level-up" },
+        { "name": "snatch", "id": 289, "level": 10, "method": "level-up" },
+        { "name": "snatch", "id": 289, "level": 0, "method": "tutor" },
+        { "name": "rock-tomb", "id": 317, "level": 0, "method": "machine" },
+        { "name": "signal-beam", "id": 324, "level": 0, "method": "tutor" },
+        { "name": "calm-mind", "id": 347, "level": 0, "method": "machine" },
+        { "name": "gravity", "id": 356, "level": 0, "method": "tutor" },
+        { "name": "gyro-ball", "id": 360, "level": 0, "method": "machine" },
+        { "name": "embargo", "id": 373, "level": 0, "method": "machine" },
+        { "name": "fling", "id": 374, "level": 0, "method": "machine" },
+        { "name": "heal-block", "id": 377, "level": 54, "method": "level-up" },
+        { "name": "drain-punch", "id": 409, "level": 0, "method": "tutor" },
+        { "name": "focus-blast", "id": 411, "level": 0, "method": "machine" },
+        { "name": "energy-ball", "id": 412, "level": 0, "method": "machine" },
+        { "name": "giga-impact", "id": 416, "level": 0, "method": "machine" },
+        { "name": "zen-headbutt", "id": 428, "level": 0, "method": "tutor" },
+        { "name": "flash-cannon", "id": 430, "level": 0, "method": "machine" },
+        { "name": "trick-room", "id": 433, "level": 0, "method": "machine" },
+        { "name": "grass-knot", "id": 447, "level": 0, "method": "machine" },
+        { "name": "wonder-room", "id": 472, "level": 59, "method": "level-up" },
+        { "name": "wonder-room", "id": 472, "level": 0, "method": "tutor" },
+        { "name": "psyshock", "id": 473, "level": 25, "method": "level-up" },
+        { "name": "psyshock", "id": 473, "level": 0, "method": "machine" },
+        { "name": "telekinesis", "id": 477, "level": 0, "method": "machine" },
+        { "name": "after-you", "id": 495, "level": 0, "method": "tutor" },
+        { "name": "round", "id": 496, "level": 0, "method": "machine" }
+      ],
+      "name": "reuniclus",
+      "sprites": {
+        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png"
+      },
+      "stats": [
+        {
+          "base_stat": 110,
+          "effort": 0,
+          "stat": {
+            "name": "hp",
+            "url": "https://pokeapi.co/api/v2/stat/1/"
+          }
+        },
+        {
+          "base_stat": 65,
+          "effort": 0,
+          "stat": {
+            "name": "atk",
+            "url": "https://pokeapi.co/api/v2/stat/2/"
+          }
+        },
+        {
+          "base_stat": 75,
+          "effort": 0,
+          "stat": {
+            "name": "def",
+            "url": "https://pokeapi.co/api/v2/stat/3/"
+          }
+        },
+        {
+          "base_stat": 125,
+          "effort": 3,
+          "stat": {
+            "name": "spatk",
+            "url": "https://pokeapi.co/api/v2/stat/4/"
+          }
+        },
+        {
+          "base_stat": 85,
+          "effort": 0,
+          "stat": {
+            "name": "spdef",
+            "url": "https://pokeapi.co/api/v2/stat/5/"
+          }
+        },
+        {
+          "base_stat": 30,
+          "effort": 0,
+          "stat": {
+            "name": "spd",
+            "url": "https://pokeapi.co/api/v2/stat/6/"
+          }
+        }
+      ],
+      "types": [
+        {
+          "slot": 1,
+          "type": {
+            "name": "psychic",
+            "url": "https://pokeapi.co/api/v2/type/14/"
+          }
+        }
+      ],
+      "weight": 201
+    },
+    {
+      "abilities": [
+        {
+          "ability": {
+            "name": "snow-cloak",
+            "url": "https://pokeapi.co/api/v2/ability/81/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "ice-body",
+            "url": "https://pokeapi.co/api/v2/ability/115/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ],
+      "height": 8,
+      "held_items": [],
+      "id": 471,
+      "moves": [
+        { "name": "sand-attack", "id": 28, "level": 5, "method": "level-up" },
+        { "name": "tackle", "id": 33, "level": 1, "method": "level-up" },
+        { "name": "tail-whip", "id": 39, "level": 1, "method": "level-up" },
+        { "name": "bite", "id": 44, "level": 17, "method": "level-up" },
+        { "name": "roar", "id": 46, "level": 0, "method": "machine" },
+        { "name": "ice-beam", "id": 58, "level": 0, "method": "machine" },
+        { "name": "blizzard", "id": 59, "level": 45, "method": "level-up" },
+        { "name": "blizzard", "id": 59, "level": 0, "method": "machine" },
+        { "name": "hyper-beam", "id": 63, "level": 0, "method": "machine" },
+        { "name": "strength", "id": 70, "level": 0, "method": "machine" },
+        { "name": "dig", "id": 91, "level": 0, "method": "machine" },
+        { "name": "toxic", "id": 92, "level": 0, "method": "machine" },
+        { "name": "quick-attack", "id": 98, "level": 13, "method": "level-up" },
+        { "name": "double-team", "id": 104, "level": 0, "method": "machine" },
+        { "name": "barrier", "id": 112, "level": 29, "method": "level-up" },
+        { "name": "rest", "id": 156, "level": 0, "method": "machine" },
+        { "name": "substitute", "id": 164, "level": 0, "method": "machine" },
+        { "name": "snore", "id": 173, "level": 0, "method": "tutor" },
+        { "name": "protect", "id": 182, "level": 0, "method": "machine" },
+        { "name": "icy-wind", "id": 196, "level": 9, "method": "level-up" },
+        { "name": "icy-wind", "id": 196, "level": 0, "method": "tutor" },
+        { "name": "swagger", "id": 207, "level": 0, "method": "machine" },
+        { "name": "attract", "id": 213, "level": 0, "method": "machine" },
+        { "name": "sleep-talk", "id": 214, "level": 0, "method": "tutor" },
+        { "name": "heal-bell", "id": 215, "level": 0, "method": "tutor" },
+        { "name": "return", "id": 216, "level": 0, "method": "machine" },
+        { "name": "frustration", "id": 218, "level": 0, "method": "machine" },
+        { "name": "iron-tail", "id": 231, "level": 0, "method": "tutor" },
+        { "name": "hidden-power", "id": 237, "level": 0, "method": "machine" },
+        { "name": "rain-dance", "id": 240, "level": 0, "method": "machine" },
+        { "name": "sunny-day", "id": 241, "level": 0, "method": "machine" },
+        { "name": "mirror-coat", "id": 243, "level": 33, "method": "level-up" },
+        { "name": "shadow-ball", "id": 247, "level": 0, "method": "machine" },
+        { "name": "rock-smash", "id": 249, "level": 0, "method": "machine" },
+        { "name": "hail", "id": 258, "level": 37, "method": "level-up" },
+        { "name": "hail", "id": 258, "level": 0, "method": "machine" },
+        { "name": "facade", "id": 263, "level": 0, "method": "machine" },
+        { "name": "helping-hand", "id": 270, "level": 1, "method": "level-up" },
+        { "name": "helping-hand", "id": 270, "level": 0, "method": "tutor" },
+        { "name": "hyper-voice", "id": 304, "level": 0, "method": "tutor" },
+        { "name": "signal-beam", "id": 324, "level": 0, "method": "tutor" },
+        { "name": "covet", "id": 343, "level": 0, "method": "tutor" },
+        { "name": "last-resort", "id": 387, "level": 41, "method": "level-up" },
+        { "name": "last-resort", "id": 387, "level": 0, "method": "tutor" },
+        { "name": "aqua-tail", "id": 401, "level": 0, "method": "tutor" },
+        { "name": "giga-impact", "id": 416, "level": 0, "method": "machine" },
+        { "name": "ice-shard", "id": 420, "level": 25, "method": "level-up" },
+        { "name": "ice-fang", "id": 423, "level": 21, "method": "level-up" },
+        { "name": "round", "id": 496, "level": 0, "method": "machine" },
+        { "name": "echoed-voice", "id": 497, "level": 0, "method": "machine" },
+        { "name": "retaliate", "id": 514, "level": 0, "method": "machine" },
+        { "name": "frost-breath", "id": 524, "level": 0, "method": "machine" },
+        { "name": "work-up", "id": 526, "level": 0, "method": "machine" }
+      ],
+      "name": "glaceon",
+      "sprites": {
+        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png"
+      },
+      "stats": [
+        {
+          "base_stat": 65,
+          "effort": 0,
+          "stat": {
+            "name": "hp",
+            "url": "https://pokeapi.co/api/v2/stat/1/"
+          }
+        },
+        {
+          "base_stat": 60,
+          "effort": 0,
+          "stat": {
+            "name": "atk",
+            "url": "https://pokeapi.co/api/v2/stat/2/"
+          }
+        },
+        {
+          "base_stat": 110,
+          "effort": 0,
+          "stat": {
+            "name": "def",
+            "url": "https://pokeapi.co/api/v2/stat/3/"
+          }
+        },
+        {
+          "base_stat": 130,
+          "effort": 2,
+          "stat": {
+            "name": "spatk",
+            "url": "https://pokeapi.co/api/v2/stat/4/"
+          }
+        },
+        {
+          "base_stat": 95,
+          "effort": 0,
+          "stat": {
+            "name": "spdef",
+            "url": "https://pokeapi.co/api/v2/stat/5/"
+          }
+        },
+        {
+          "base_stat": 65,
+          "effort": 0,
+          "stat": {
+            "name": "spd",
+            "url": "https://pokeapi.co/api/v2/stat/6/"
+          }
+        }
+      ],
+      "types": [
+        {
+          "slot": 1,
+          "type": {
+            "name": "ice",
+            "url": "https://pokeapi.co/api/v2/type/15/"
+          }
+        }
+      ],
+      "weight": 259
+    }
+  ]
+}
